@@ -6,7 +6,7 @@ public class HelloMain {
 		System.out.println("Welcome!!");
 		
 		System.out.println("Lost Symbol");
-	//	System.out.println("Is still working!!!");
+		System.out.println("Is still working!!!");
 	}
 
 }
