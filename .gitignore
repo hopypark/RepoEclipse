@@ -3,6 +3,9 @@
 
 ### Eclipse ###
 .metadata
+.classpath
+.project
+.DS_store
 bin/
 tmp/
 *.tmp
